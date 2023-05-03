@@ -12,6 +12,7 @@
 - Advance UI
 - Light and Dark theme
 - GetX State Management
+- Ad Integration
 - Generate random color pallete
 - Color picker
 - local json data
@@ -28,7 +29,7 @@
 
 <h3 align="left">📲 Video</h3>
 
-https://user-images.githubusercontent.com/121868259/236007040-b2da5ef5-cea5-447a-953f-25caec9b1878.mp4
+https://user-images.githubusercontent.com/121868259/236010080-97746b4c-af46-4fda-8b20-c2c099239a78.mp4
 
 
 <h3 align="left">📲 Screenshots</h3>
